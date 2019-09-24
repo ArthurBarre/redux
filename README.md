@@ -1,0 +1,1 @@
+This is my first repo using redux, trying to understand the benefits of this dependencies
