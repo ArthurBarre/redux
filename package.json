@@ -1,0 +1,22 @@
+{
+  "name": "first-react-redux",
+  "version": "1.0.0",
+  "description": "This is my first repo using redux, trying to understand the benefits of this dependencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArthurBarre/react-redux.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArthurBarre/react-redux/issues"
+  },
+  "homepage": "https://github.com/ArthurBarre/react-redux#readme",
+  "dependencies": {
+    "redux": "^4.0.4"
+  }
+}
